@@ -1,3 +1,6 @@
+#Jason Bajarias
+#C13379416
+#28/09/2015
 #this program check wether a string is a palindrome or not
 
 #function that checks if the string is a palindrome
